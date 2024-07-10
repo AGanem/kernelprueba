@@ -1,0 +1,96 @@
+[ERROR] 20:20:54:733 EntradaSalida/(149756:149756): Error creando el socket para IP memoria
+[ERROR] 20:20:54:733 EntradaSalida/(149756:149756): y puerto 8003
+[ERROR] 20:21:45:333 EntradaSalida/(149913:149913): Error creando el socket para IP memoria
+[ERROR] 20:21:45:333 EntradaSalida/(149913:149913): y puerto 8003
+[ERROR] 20:22:09:054 EntradaSalida/(149990:149990): Error creando el socket para IP memoria
+[ERROR] 20:22:09:054 EntradaSalida/(149990:149990): y puerto 8002
+[ERROR] 20:23:15:322 EntradaSalida/(150100:150100): Error creando el socket para IP memoria
+[ERROR] 20:23:15:323 EntradaSalida/(150100:150100): y puerto 8002
+[ERROR] 20:24:10:319 EntradaSalida/(150161:150161): Error creando el socket para IP memoria
+[ERROR] 20:24:10:320 EntradaSalida/(150161:150161): y puerto 8002
+[INFO] 20:24:47:195 kernelprueba/(150275:150275): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:05:46:240 kernelprueba/(151082:151082): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:07:15:802 kernelprueba/(151169:151169): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:15:24:442 kernelprueba/(151403:151403): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:17:02:574 kernelprueba/(151643:151643): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:23:00:551 kernelprueba/(151819:151819): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:26:51:719 kernelprueba/(151973:151973): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:30:03:464 kernelprueba/(152265:152265): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:35:52:354 kernelprueba/(152483:152483): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:37:46:367 kernelprueba/(152645:152645): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:39:55:152 kernelprueba/(152792:152792): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:41:38:890 kernelprueba/(152950:152950): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:46:04:518 kernelprueba/(153216:153216): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[ERROR] 21:51:18:350 kernelprueba/(153481:153481): Error al conectar (a memoria)
+
+[INFO] 21:51:25:482 kernelprueba/(153507:153507): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:53:28:043 kernelprueba/(153684:153684): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:54:49:450 kernelprueba/(153837:153837): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 21:58:03:267 kernelprueba/(154057:154057): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:02:30:266 kernelprueba/(154248:154248): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:03:03:918 kernelprueba/(154331:154331): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:03:29:518 kernelprueba/(154404:154404): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:05:37:429 kernelprueba/(154582:154582): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:11:44:660 kernelprueba/(154863:154863): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:14:04:309 kernelprueba/(155108:155108): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:33:58:457 kernelprueba/(155652:155652): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:36:33:752 kernelprueba/(155763:155763): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:37:43:625 kernelprueba/(155865:155865): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:39:03:438 kernelprueba/(155925:155925): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:40:13:170 kernelprueba/(156029:156029): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:41:52:388 kernelprueba/(156184:156184): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:43:31:723 kernelprueba/(156279:156279): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:52:29:828 kernelprueba/(156811:156811): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:55:10:043 kernelprueba/(157190:157190): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:03:34:395 kernelprueba/(157700:157700): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:10:33:645 kernelprueba/(158040:158040): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:11:23:287 kernelprueba/(158128:158128): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:35:23:094 kernelprueba/(158669:158669): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:50:17:619 kernelprueba/(158924:158924): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 23:54:23:844 kernelprueba/(159021:159021): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 00:03:45:574 kernelprueba/(159347:159347): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 00:16:17:147 kernelprueba/(159445:159445): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 00:18:30:650 kernelprueba/(159647:159647): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
+[INFO] 22:26:40:783 kernelprueba/(160929:160929): Cliente conectado en 127.0.0.1:8002 (a memoria)
+
